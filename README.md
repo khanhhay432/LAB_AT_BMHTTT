@@ -5,7 +5,7 @@
 | Lab | Nội dung | Trạng thái |
 |:---:|---|:---:|
 | [Lab 1](./Lab1/) | Examining SSH & Telnet in Wireshark | ✅ Hoàn thành |
-| Lab 3 | — | ✅ Hoàn thành |
+| [Lab 3](./Lab3/)) | Threats Assets | ✅ Hoàn thành |
 | Lab 4 | — | ✅ Hoàn thành |
 
 ## Cấu trúc Repository
