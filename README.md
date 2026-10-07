@@ -6,7 +6,7 @@
 |:---:|---|:---:|
 | [Lab 1](./Lab1/) | Examining SSH & Telnet in Wireshark | ✅ Hoàn thành |
 | [Lab 3](./Lab3/) | Threats Assets | ✅ Hoàn thành |
-| Lab 4 | — | ✅ Hoàn thành |
+| [Lab 4](./Lab4/) | Surveying and Assessing the Network Surface with Nmap | ✅ Hoàn thành |
 
 ## Cấu trúc Repository
 
