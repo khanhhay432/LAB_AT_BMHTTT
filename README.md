@@ -2,7 +2,7 @@
 
 ## Danh sách Lab
 
-| Lab | Nội dung | 
+| Lab | Nội dung
 |:---:|---|:---:|
 | [Lab 1](./Lab1/) | Examining SSH & Telnet in Wireshark
 | [Lab 3](./Lab3/) | Threats Assets
